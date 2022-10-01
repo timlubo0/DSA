@@ -1,0 +1,14 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "dsa",
+  "main": "index.ts",
+  "scripts" : {
+    "start" : "ts-node-esm ./index.ts",
+    "test": "jest",
+    "build": "tsc",
+    "lint": "eslint"
+  },
+  "author": "Tim Lubo",
+  "license": "MIT"
+}
